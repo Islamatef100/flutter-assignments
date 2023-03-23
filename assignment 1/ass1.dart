@@ -5,7 +5,7 @@ void main() {
     home: Scaffold(
       appBar: AppBar(
         title: const Text('First Application'),
-        backgroundColor: Colors.red,
+        backgroundColor: Colors.green,
       ),
       body: const Center(
         child: Text("Islam Atef Nagy"),
